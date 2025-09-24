@@ -1,7 +1,7 @@
 # 🎮 보자마자 PLAY2 리얼모션 (Bojamaja PLAY2 Real Motion)
 
 <p align="center">
-  <img src="Screenshots/title_real.png" width="400" alt="보자마자 PLAY2 리얼모션 타이틀"/>
+  <img src="Screenshots/img.png" width="400" alt="보자마자 PLAY2 리얼모션 타이틀"/>
 </p>
 
 Leap Motion 제스처 인식 기반의 **캐주얼 게임 모음집**.
@@ -57,17 +57,17 @@ FirebaseDB.Instance.SaveScore(userId, totalScore, () =>
 
 | 제스처 인식 예시                                                 | 설명                                           |
 | --------------------------------------------------------- | -------------------------------------------- |
-| <img src="Screenshots/gesture_tutorial.png" width="200"/> | 손가락 제스처를 버튼 입력으로 매핑 (첫번째 버튼, 두번째 버튼, 뒤로가기 등) |
-| <img src="Screenshots/motion_tutorial.gif" width="200"/>  | 모션 인식기에 손을 올려 제스처 인식 시작                      |
+| <img src="Screenshots/293590147-7e2c5acd-0e02-4d69-b2fa-713eb976a7c7.png" width="200"/> | 손가락 제스처를 버튼 입력으로 매핑 (첫번째 버튼, 두번째 버튼, 뒤로가기 등) |
+| <img src="Screenshots/293590148-7c3e4f92-e7f0-45cb-b734-e83618256053.gif" width="200"/>  | 모션 인식기에 손을 올려 제스처 인식 시작                      |
 
 ---
 
 ## 🎮 게임 모드 소개
 
-| 모드         | 설명                                              |
+| 모드         | 설명                                              |모드 |
 | ---------- | ----------------------------------------------- |
-| **클래식 모드** | 원하는 게임을 골라 30초 동안 플레이, 획득 점수에 따라 별(★) 부여        |
-| **랭킹 모드**  | 10개 미니게임을 랜덤 순서로 30초씩 플레이, 총 점수를 기반으로 글로벌 랭킹 등록 |
+| **클래식 모드** | 원하는 게임을 골라 30초 동안 플레이, 획득 점수에 따라 별(★) 부여        |<img src="Screenshots/img (3).png" width="200"/> |
+| **랭킹 모드**  | 10개 미니게임을 랜덤 순서로 30초씩 플레이, 총 점수를 기반으로 글로벌 랭킹 등록 |<img src="Screenshots/img (4).png" width="200"/> |
 
 ---
 
@@ -75,5 +75,5 @@ FirebaseDB.Instance.SaveScore(userId, totalScore, () =>
 
 | **타이틀 화면**                                          | **게임 선택**                                            | **랭킹 등록**                                          | **결과 화면**                                            | **랭킹 존**                                          |
 | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------- |
-| <img src="Screenshots/title_real.png" width="200"/> | <img src="Screenshots/select_real.png" width="200"/> | <img src="Screenshots/rank_real.png" width="200"/> | <img src="Screenshots/result_real.png" width="200"/> | <img src="Screenshots/rankzone.png" width="200"/> |
+| <img src="Screenshots/img.png" width="200"/> | <img src="Screenshots/img (2).png" width="200"/> | <img src="Screenshots/img (4).png" width="200"/> | <img src="Screenshots/result_real.png" width="200"/> | <img src="Screenshots/img (6).png" width="200"/> |
 
